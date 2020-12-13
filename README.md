@@ -1,2 +1,1 @@
-# FlexGridTraining
- https://flexgridtraining.github.io/
+https://leomvb.github.io/flexgridtraining/
